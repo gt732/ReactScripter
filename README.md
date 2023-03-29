@@ -3,6 +3,10 @@
 
 This is a simple web application built with React and Node.js that allows users to browse and run script files in a web browser. The app uses the Chonky UI library to display a file browser interface in the browser, and the Node.js Express framework to serve the content and run the scripts.
 
+Chonky UI - https://chonky.io/
+
+Shoutout to filebrowserjjin for boilerplate code - https://codesandbox.io/s/filebrowserjjin-qv95vv
+
 ## Installation
 
 To run ReactScripter, simply follow the steps below:
